@@ -1,0 +1,5 @@
+verse-native
+
+First-party native Tiinex Verse — human-readable Universe, Workspace, lineage and artifact presentations over the shared Tiinex application data plane.
+
+Grounding boundary: follow repository-local Tasks under .topics/refactor and the controlling Business Turn-2 repository-decomposition frontier.
