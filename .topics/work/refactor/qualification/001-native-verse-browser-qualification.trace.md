@@ -9,19 +9,19 @@
     - [relative](../001-native-verse-extraction-and-viewer-recovery.trace.md)
 - Current
   - Current Schema: [tiinex.task.v1](https://github.com/Tiinex/docs/blob/053d46ce082d4ec261b82abc44ecca403d61e240/.topics/.schemas/core/task/tiinex.task.v1.schema.md)
-  - Created At: 2026-09-09 15:48:24
+  - Created At: 2026-09-09 15:48:25
   - Authors: Anchor
   - Why: Decompose verse-native work so progress and later Reduction remain local and auditable.
-  - Summary: Move presentation ownership out of App without copying shared host/data-plane implementation.
+  - Summary: Qualify package consumption and real browser flows over the current App/Core frontier with use-case-oriented tests.
   - Status: ready/local
 
 ---
 
-# Native Verse extraction
+# Native Verse browser qualification
 
 ## Objective
 
-Move presentation ownership out of App without copying shared host/data-plane implementation.
+Qualify package consumption and real browser flows over the current App/Core frontier with use-case-oriented tests.
 
 ## Done Criteria
 
@@ -44,8 +44,8 @@ Repository-local work for this subarea only. Do not expand into sibling reposito
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-native-verse-extraction-and-viewer-recovery.trace.md](../001-native-verse-extraction-and-viewer-recovery.trace.md)
-  - Value: 7AcIY2eM5fv5mqcg862y7D3aq6iad5kuqjZsEZAhCrE
+  - Value: 0yRaK5_dXiq6QMW3ll8JLY3pVPiB7e04WX4NV0MfYO8
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: 3bPUXeDxdhOqnkoR-hB6V8b5itQ9a7pDug6fnJUK574
+  - Value: 7Ep0QizsSCMoVT4hHeWgYLAEkJUTK9pZxGzRjVAsN14

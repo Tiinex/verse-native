@@ -9,19 +9,19 @@
     - [relative](../001-native-verse-extraction-and-viewer-recovery.trace.md)
 - Current
   - Current Schema: [tiinex.task.v1](https://github.com/Tiinex/docs/blob/053d46ce082d4ec261b82abc44ecca403d61e240/.topics/.schemas/core/task/tiinex.task.v1.schema.md)
-  - Created At: 2026-09-09 15:48:25
+  - Created At: 2026-09-09 15:48:24
   - Authors: Anchor
   - Why: Decompose verse-native work so progress and later Reduction remain local and auditable.
-  - Summary: Recover orientation, navigation, progressive depth, visible lineage and degradation/uncertainty value rather than qualifying architecture alone.
+  - Summary: Move presentation ownership out of App without copying shared host/data-plane implementation.
   - Status: ready/local
 
 ---
 
-# Native Viewer value recovery
+# Native Verse extraction
 
 ## Objective
 
-Recover orientation, navigation, progressive depth, visible lineage and degradation/uncertainty value rather than qualifying architecture alone.
+Move presentation ownership out of App without copying shared host/data-plane implementation.
 
 ## Done Criteria
 
@@ -44,8 +44,8 @@ Repository-local work for this subarea only. Do not expand into sibling reposito
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-native-verse-extraction-and-viewer-recovery.trace.md](../001-native-verse-extraction-and-viewer-recovery.trace.md)
-  - Value: 7AcIY2eM5fv5mqcg862y7D3aq6iad5kuqjZsEZAhCrE
+  - Value: 0yRaK5_dXiq6QMW3ll8JLY3pVPiB7e04WX4NV0MfYO8
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: 3_uAo5DiDZlnsrp-TI3sXDyQj5RHOw792vK8i2bDL7A
+  - Value: K9N9xeu-IsfgXu6H5EnVpegGMNQF-ICbSAOJD-3D_oE
