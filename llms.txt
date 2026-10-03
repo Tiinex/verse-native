@@ -2,4 +2,7 @@ verse-native
 
 First-party native Tiinex Verse — human-readable Universe, Workspace, lineage and artifact presentations over the shared Tiinex application data plane.
 
-Grounding boundary: follow repository-local Tasks under .topics/refactor and the controlling Business Turn-2 repository-decomposition frontier.
+Grounding boundary:
+- Start from `.topics/.workspaces/tiinex-verse-native.workspace.md` and the Workspace fresh-start Reduction under `.topics/reductions/workspace/`.
+- Historical refactor/viewer execution lineage is reduced; no prior Task is current. Future Native Verse work starts from a new explicit bounded Task with truthful Project ancestry.
+- Presentation must not manufacture semantic authority from filename, directory, or display order.

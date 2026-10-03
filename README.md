@@ -2,11 +2,11 @@
 
 First-party native Tiinex Verse — human-readable Universe, Workspace, lineage and artifact presentations over the shared Tiinex application data plane.
 
-## Turn-2 boundary
+## Fresh-start boundary
 
 Own the standard native Tiinex presentation family while App remains a Verse-neutral host and shared data plane.
 
-The repository is intentionally bootstrapped with a minimal public module while Turn-2 extraction defines and qualifies the real runtime surface. Do not move implementation here merely to populate the package.
+The repository remains intentionally minimal after the Major 017 fresh-start reduction. No historical extraction/refactor Task is current by default; future Native Verse work starts from a new explicit bounded Task with truthful Project ancestry. Do not move implementation here merely to populate the package.
 
 ## Distribution
 
