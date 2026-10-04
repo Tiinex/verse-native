@@ -1,8 +1,7 @@
-verse-native
+# Tiinex/verse-native LLM Bootstrap
 
-First-party native Tiinex Verse — human-readable Universe, Workspace, lineage and artifact presentations over the shared Tiinex application data plane.
+This repository uses Tiinex. `.topics/**` and qualified source material are semantic/provenance authority; this file is only a bootstrap hint.
 
-Grounding boundary:
-- Start from `.topics/.workspaces/tiinex-verse-native.workspace.md` and the Workspace fresh-start Reduction under `.topics/reductions/workspace/`.
-- Historical refactor/viewer execution lineage is reduced; no prior Task is current. Future Native Verse work starts from a new explicit bounded Task with truthful Project ancestry.
-- Presentation must not manufacture semantic authority from filename, directory, or display order.
+Use Tiinex Tooling to discover and qualify the Workspace entrypoint under `.topics/.workspaces`, then follow only the qualified artifacts and processes applicable to the current task.
+
+Do not use `llms.txt` or `README.md` as an artifact index, current-work declaration, or substitute for Tiinex discovery/grounding.
